@@ -1,14 +1,14 @@
-# interview-task-app
-Interview task app using React Native, Expom Typescript and redux
+**Interview task app using React Native, Expo, Typescript and redux json schema
+**
+1. Clone the project into the local systems <br>
+2. interview-task-app<br>
+3. npm install for all node modules dependencies<br>
+4. To Start <br>
+  **expo start** <br>
+5. To Start with tunnel (recommended)<br>
+  **expo start --tunnel**<br>
 
-Clone and cd interview-task-app<br>
-npm install for all node modules dependencies<br>
-To Start <br>
-expo etart <br>
-To Start with tunnel (recommended)<br>
-expo start --tunnel<br>
-
-Screenshots<br>
+**Screenshots**<br>
 
 ![screenshot](https://drive.google.com/file/d/1bQ-dk3MeVHBeOtDMJKfgaRdZvnTmoMAi/view?usp=share_link)
 
